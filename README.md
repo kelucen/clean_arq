@@ -1,2 +1,2 @@
 # clean_arq
-Its About keep clean codes, clean architecture
+Its About keep clean codes and clean architecture
